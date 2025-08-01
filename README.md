@@ -145,5 +145,9 @@ The chatbot is simple, offline, and easy to modify.
 
 It forms the foundation for more advanced AI projects involving deep learning or large language models.
 
+OUTPUT:
+
+<img width="650" height="236" alt="Image" src="https://github.com/user-attachments/assets/1e6c6b8b-3063-4312-8db6-0605256abaa6" />
+
 
 
